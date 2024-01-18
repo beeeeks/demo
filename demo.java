@@ -1,4 +1,4 @@
-public class demo {
+public class HelloWorld {
     public static void main(String[] args) {
         // Printing to the console without a new line
         System.out.print("Hello, ");
@@ -7,5 +7,4 @@ public class demo {
         // Printing to the console with a new line
         System.out.println("\nHello, World!");
     }
-    
 }
